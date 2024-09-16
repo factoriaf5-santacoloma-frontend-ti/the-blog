@@ -75,6 +75,7 @@ Desarrollaremos el proyecto por iteraciones:
 ## Recursos
 
 Validador de HTML: https://validator.w3.org/
+
 Cursos de HTML: 
 - Google: https://web.dev/learn/html
 - w3schools: https://www.w3schools.com/html/
