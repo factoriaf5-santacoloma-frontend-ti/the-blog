@@ -58,19 +58,21 @@ Desarrollaremos el proyecto por iteraciones:
 - Se compartirá la url del repositorio de github y de la gh page.
 
 ## Evaluación
-- [ ] El proyecto está desplegado en gh-page
-- [ ] El código html está bien formado
-- [ ] El código html es accesible
-- [ ] Todos los enlaces funcionan
-- [ ] Las etiquetas html están bien elegidas para el cometido que se utilizan
-- [ ] Las imágenes tiene pie de foto
-- [ ] En las páginas de los artículos aparecen los elementos obligatorios
+- [ ] El proyecto está desplegado en gh-page.
+- [ ] El código html está bien formado.
+- [ ] El código html es accesible.
+- [ ] Todos los enlaces funcionan.
+- [ ] Las etiquetas html están bien elegidas para el cometido que se utilizan.
+- [ ] Las imágenes tiene pie de foto.
+- [ ] En las páginas de los artículos aparecen los elementos obligatorios.
 - [ ] En las páginas de los artículos aparecen como mínimo 2 elementos opcionales.
 - [ ] En las páginas de los artículos existe el vínculo a la página principal.
 - [ ] Se ha incluido un fichero de readme en el proyecto con información sobre el mismo.
 - [ ] Se ha incluido un link a la presentación desde el readme del proyecto.
 - [ ] Todos los miembros del equipo se han sentido escuchados.
 - [ ] Todos los miembros del equipo han colaborado en el resultado final.
+- [ ] Has encontrado otros recursos que te han sido útiles a la hora de desarrollar el proyecto.
+- [ ] Has introducido estilos en el proyecto.
 
 ## Recursos
 
