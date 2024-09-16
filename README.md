@@ -1,4 +1,4 @@
-# the-blog
+# The blog
 
 ## Introducción
 Un "blog" (o "web log") es un diario en línea que una o muchas personas actualizan frecuentemente, ya sea cada día, cada semana o cada mes. Muchos programadores nuevos tienen blogs que documentan su viaje para convertirse en programadores, con actualizaciones sobre lo que han aprendido y lo que han hecho.
@@ -79,4 +79,5 @@ Validador de HTML: https://validator.w3.org/
 Cursos de HTML: 
 - Google: https://web.dev/learn/html
 - w3schools: https://www.w3schools.com/html/
+
 Curso de Accesibilidad: https://web.dev/learn/accessibility
